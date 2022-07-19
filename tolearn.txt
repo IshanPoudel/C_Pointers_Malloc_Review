@@ -1,0 +1,7 @@
+Recursion
+Pointers to Pointers
+Pass by Reference
+Malloc
+Linkedlist
+Stacks
+Queues
