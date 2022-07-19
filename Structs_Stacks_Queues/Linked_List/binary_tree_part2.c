@@ -90,7 +90,7 @@ void Insert( int num)
 
 			if(temp2->left == NULL)
 			{
-				// it means the left node is empty
+				// it means the left node is empty so we need not need to go further.
 				// need a way to abort
 				break;
 			}
